@@ -1,0 +1,37 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "React JS",
+      "instructor": "Rahul Kumar",
+      "duration": "6 Weeks",
+      "price": 2999,
+      "registered": true
+    },
+    {
+      "id": "2",
+      "title": "Python Programming",
+      "instructor": "Priya Sharma",
+      "duration": "8 Weeks",
+      "price": 3499,
+      "registered": true
+    },
+    {
+      "id": "3",
+      "title": "Web Development",
+      "instructor": "Arun Reddy",
+      "duration": "10 Weeks",
+      "price": 4999,
+      "registered": true
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Design",
+      "instructor": "Sneha Rao",
+      "duration": "5 Weeks",
+      "price": 2499,
+      "registered": true
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
